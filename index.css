@@ -1,0 +1,9 @@
+body {
+    background-image: url("img/butterflies.jpg");
+    background-size: cover;
+}
+
+.main {
+    color: #FFF;
+    text-align: center;
+}
